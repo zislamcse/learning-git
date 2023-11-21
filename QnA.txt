@@ -1,0 +1,3 @@
+Https - https://github.com/zislamcse/learning-git.git
+SSH - git@github.com:zislamcse/learning-git.git
+GitHub CLI - gh repo clone zislamcse/learning-git
